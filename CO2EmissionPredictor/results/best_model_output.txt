@@ -1,0 +1,7 @@
+Best model using 2 features: FUELCONSUMPTION_COMB + CYLINDERS
+MAE: 16.50, MSE: 515.45, R2: 0.89
+
+3-feature model from lecture had:
+MAE: 14.50, MSE: 408.38, R2: 0.89
+
+→ Conclusion: The 3-feature model performs slightly better.
